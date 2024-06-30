@@ -1,4 +1,4 @@
-# MyVBAProject
+# Learning VBA
 
 This repository contains VBA modules, and forms used in my Excel projects.
 
