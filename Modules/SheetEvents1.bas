@@ -13,7 +13,7 @@ Private Sub Worksheet_SelectionChange(ByVal Target As Range)
 '    End If
 '**************************************************************
 
-'If Target.Cells.Count = 1 Then
+'If Target.Cells.CountLarge = 1 Then
 
 '    If Target.Row <= 10 And Target.Column <= 5 Then
 '        Target.Interior.Color = vbYellow
